@@ -2,8 +2,6 @@
 title: "Impressum"
 ---
 
-# Impressum
-
 Dies ist eine persönliche, nicht-kommerzielle Website, betrieben von:
 
 **Jan Quandt**  

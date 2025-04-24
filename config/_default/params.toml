@@ -2,14 +2,14 @@ title = "Stadtökologie | Jan Quandt"
 author = "Jan Quandt"
 copyright = "2025"
 description = "Übersicht meiner Projekte und Interessen"
-profilePicture = "images/suedgelaende_zoom.jpg"
+profilePicture = "images/yosemite-shot3_zoom.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-mainSections = ["post"]
+mainSections = ["post", "portfolio"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
