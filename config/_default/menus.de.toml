@@ -32,4 +32,4 @@
   identifier = "impressum"
   name = "Impressum"
   weight = 1
-  url = "/imprint/"
+  url = "/impressum/"
