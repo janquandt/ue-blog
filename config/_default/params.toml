@@ -4,7 +4,7 @@ copyright = "2025"
 description = "Übersicht meiner Projekte und Interessen"
 profilePicture = "images/suedgelaende_zoom.jpg"
 keywords = ""
-favicon = "favicons/favicon.ico"
+favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
