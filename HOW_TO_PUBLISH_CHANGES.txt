@@ -1,4 +1,4 @@
-### Git Bash (???)
+### Git Bash (right click folder -> Open Git Bash here)
 
 # add all files to the local Git repository
 git add --all

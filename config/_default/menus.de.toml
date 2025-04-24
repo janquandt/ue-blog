@@ -5,16 +5,16 @@
   url = "/"
 
   [[main]]
-  identifier = "posts"
-  name = "Beiträge"
-  weight = 200
-  url = "/post/"
-
-  [[main]]
   identifier = "portfolio"
   name = "Portfolio"
-  weight = 300
+  weight = 200
   url = "/portfolio/"
+  
+  [[main]]
+  identifier = "blog"
+  name = "Blog"
+  weight = 300
+  url = "/blog/"  
 
   [[main]]
   identifier = "about"
@@ -29,7 +29,7 @@
   url = "/contact/"
 
   [[footer]]
-  identifier = "imprint"
+  identifier = "impressum"
   name = "Impressum"
   weight = 1
   url = "/imprint/"

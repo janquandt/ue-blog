@@ -1,11 +1,5 @@
 [de]
-title = "Blog"
+title = "Stadtökologie | Jan Quandt"
 weight = 1
 LanguageName = "DE"
-contentDir = "content/german"
-
-[en]
-title = "Blog"
-weight = 2
-LanguageName = "EN"
-contentDir = "content/english"
+contentDir = "content/de"
