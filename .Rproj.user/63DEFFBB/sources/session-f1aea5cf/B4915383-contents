@@ -21,16 +21,11 @@
   name = "Über mich"
   weight = 400
   url = "/about/"
-
-  [[main]]
-  identifier = "qualifications"
-  name = "Qualifikationen"
-  weight = 500
   
   [[main]]
   identifier = "contact"
   name = "Kontakt"
-  weight = 600
+  weight = 500
   url = "/contact/"
 
   [[footer]]
