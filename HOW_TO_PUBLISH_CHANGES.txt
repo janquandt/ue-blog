@@ -8,3 +8,13 @@ git commit -m "brief message describing your changes"
 
 # push files to GitHub
 git push origin master
+
+
+
+# SHORT
+
+git add --all
+
+git commit -m "describe changes"
+
+git push origin master
