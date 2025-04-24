@@ -1,0 +1,40 @@
+  [[main]]
+  identifier = "home"
+  name = "Home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  identifier = "posts"
+  name = "Posts"
+  weight = 200
+  url = "/post/"
+
+  [[main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  weight = 300
+  url = "/portfolio/"
+
+  [[main]]
+  identifier = "about"
+  name = "About"
+  weight = 400
+  url = "/about/"
+
+  [[main]]
+  identifier = "qualifications"
+  name = "Qualifications"
+  weight = 500
+  
+  [[main]]
+  identifier = "contact"
+  name = "Contact"
+  weight = 600
+  url = "/contact/"
+
+  [[footer]]
+  identifier = "imprint"
+  name = "Impressum"
+  weight = 1
+  url = "/imprint/"
