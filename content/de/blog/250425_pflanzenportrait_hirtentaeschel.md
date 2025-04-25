@@ -3,9 +3,9 @@ author: Jan Quandt
 date: "2025-04-25"
 description: header-description
 tags:
-- bluehpflanzen
-- stadtnatur
-title: Pflanzenportrait: Hirtentäschel
+  - bluehpflanzen
+  - stadtnatur
+title: Pflanzenportrait Hirtentäschel
 banner: "images/blog/hirtentaeschel2_banner.png"
 ---
 
