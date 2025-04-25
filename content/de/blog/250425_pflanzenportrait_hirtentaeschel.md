@@ -6,7 +6,7 @@ tags:
   - bluehpflanzen
   - stadtnatur
 title: Pflanzenportrait Hirtentäschel
-banner: "images/blog/hirtentaeschel2_banner.png"
+banner: "/images/blog/hirtentaeschel2_banner.png"
 ---
 
 # Hirtentäschel (Capsella)
@@ -15,7 +15,7 @@ AUf meinen täglichen Spaziergängen mit dem Hund beobachte ich im Frühling fas
 
 Meine Aufmerksamkeit richtete sich heute jedoch auf ein viel kleineres und unscheinbareres Gewächs, die Gattung der Hirtentäschel (Capsella). Überall sprießen sie momentan am Straßenrand und in Grünflächen und während es weder die größte, die auffallenste, die schönste, oder die duftenste Pflanze ist, üben sie eine ständige Faszination auf mich aus. Besonders die Früchte und Samen in den namensgebenden Schoten haben es wahrlich in sich. So ist das Hirtentäschel bspw. ein Regenballist (Fachbegriff: Hydroballochorie), der die Energie auftreffender Regentropfen nutzen kann um seine Samen regelrecht wegzukatapultieren um eine möglichst große Fläche zu kolonisieren. Auf dem Boden angekommen scheinen die Samen dann zu einer Art Karnivorie imstande zu sein, indem kleine Tiere von der Samenschale verdaut werden können um der jungen Pflanze Nährstoffe zuzuführen (Roberts et al. 2018).
 
-![Hirtentäschel am Straßenrand](images/blog/hirtentaeschel1_zoom.png)
+![Hirtentäschel am Straßenrand](/images/blog/hirtentaeschel1_zoom.png)
 
 *Gewöhnliches Hirtentäschel (Capsella bursa-pastoris) am Straßenrand (C) J. Quandt*
 
