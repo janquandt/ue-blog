@@ -6,7 +6,7 @@ profilePicture = "images/yosemite-shot3_zoom.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = []
 mainSections = ["post", "portfolio"]
@@ -30,7 +30,6 @@ listDateFormat = "2006-01-02"
 # relatedPosts = true
 # numberOfRelatedPosts = 3
 showBanner = true
-customCss = ["css/custom.css"]
 
 # Full link to license
 license = "https://creativecommons.org/licenses/by-nc/4.0/"
