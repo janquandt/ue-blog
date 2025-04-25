@@ -29,6 +29,7 @@ listDateFormat = "2006-01-02"
 # postSectionName = "blog"
 # relatedPosts = true
 # numberOfRelatedPosts = 3
+showBanner = true
 
 # Full link to license
 license = "https://creativecommons.org/licenses/by-nc/4.0/"

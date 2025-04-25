@@ -5,11 +5,9 @@ description: header-description
 tags:
   - bluehpflanzen
   - stadtnatur
-title: Pflanzenportrait Hirtentäschel
+title: Pflanzenportrait | Hirtentäschel (*Capsella*)
 banner: "/images/blog/hirtentaeschel2_banner.png"
 ---
-
-# Hirtentäschel (Capsella)
 
 AUf meinen täglichen Spaziergängen mit dem Hund beobachte ich im Frühling fasziniert die Phänologie meiner pflanzlichen Nachbarn. Die Prunus Arten, allen voran die Zierkirsche, blühen dieser Tage prächtig und können im Gegensatz zur ebenso aktuell blühenden Magnolie, auch von Wildbienen wie der Gehörnten Mauerbiene (Osmia cornuta) als Futterquelle genutzt werden.
 
@@ -17,16 +15,16 @@ Meine Aufmerksamkeit richtete sich heute jedoch auf ein viel kleineres und unsch
 
 ![Hirtentäschel am Straßenrand](/images/blog/hirtentaeschel1_zoom.png)
 
-*Gewöhnliches Hirtentäschel (Capsella bursa-pastoris) am Straßenrand (C) J. Quandt*
+Gewöhnliches Hirtentäschel (*Capsella bursa-pastoris*) am Straßenrand © J. Quandt
 
 Tatsächlich gibt es vier Arten der Gattung Capsella, die in (West-)Deutschland vorkommen (Bomble 2020). Die nachfolgende Tabelle zeigt einen Überblick der Arten und eine minimale Merkmalsliste, die zur Bestimmung herangezogen werden kann.
 
 | Art                                            | Blühbeginn       | Fruchtform                      | Habitus                | Weitere Hinweise |
 | ---------------------------------------------- | ---------------- | ------------------------------- | ---------------------- | --------- |
-| C. praecox (Frühblühendes Hirtentäschel)       | Januar – Februar | Breit, oft fast so breit wie lang; meist gerade Seiten, evtl. leicht konvex    | Kompakt, gedrungen     | Blätter oft ungeteilt (simplex-Typ), leicht glauke Farbe |
-| C. ascendens (Aufsteigendes Hirtentäschel)     | Februar – März   | Rundlich-konvex, oft als „herzförmig“ beschrieben, mit gerundeten Ecken, Seiten konkav    | Aufsteigend, nestartig | Blüten oft etwas größer, weniger rötlich als bei rubella |
-| C. rubella s. str. (Rötliches Hirtentäschel)   | März – April     | Dreieckig, mit spitzen Ecken und konkaven Seiten | Aufrecht, sparrig      | Blüten oft rötlich, klein, Stängel oft rötlich |
-| C. bursa-pastoris (Gewöhnliches Hirtentäschel) | März – April     | Mittelbreit, Seiten meist gerade bis konvex, Form variabel      | Locker, aufrecht       | Am häufigsten vorkommende, heimische, Art, lange Blühzeit (bis in den Oktober) |
+| *C. praecox* (Frühblühendes Hirtentäschel)       | Januar – Februar | Breit, oft fast so breit wie lang; meist gerade Seiten, evtl. leicht konvex    | Kompakt, gedrungen     | Blätter oft ungeteilt (simplex-Typ), leicht glauke Farbe |
+| *C. ascendens* (Aufsteigendes Hirtentäschel)     | Februar – März   | Rundlich-konvex, oft als „herzförmig“ beschrieben, mit gerundeten Ecken, Seiten konkav    | Aufsteigend, nestartig | Blüten oft etwas größer, weniger rötlich als bei rubella |
+| *C. rubella s. str.* (Rötliches Hirtentäschel)   | März – April     | Dreieckig, mit spitzen Ecken und konkaven Seiten | Aufrecht, sparrig      | Blüten oft rötlich, klein, Stängel oft rötlich |
+| *C. bursa-pastoris* (Gewöhnliches Hirtentäschel) | März – April     | Mittelbreit, Seiten meist gerade bis konvex, Form variabel      | Locker, aufrecht       | Am häufigsten vorkommende, heimische, Art, lange Blühzeit (bis in den Oktober) |
 
 Von diesen Arten ist nur die am häufigsten vorkommende, das Gewöhnliche Hirtentäschel, eindeutig heimisch und sehr gut in lokale Ökosysteme integriert. Ihre Blüten werden von Insekten besucht, auch wenn sie oft selbstbestäubend ist. Das Frühblühende Hirtentäschel war lange nicht vom Gewöhnlichen unterschieden, darum ist die Klassifizierung als "heimisch" nicht ganz eindeutig, aber als Frühblüher könnte es eine wichtige Nektarquelle für erste Insekten im Jahr sein. Das Rötliche Hirtentäschel ist aus dem Mittelmeerraum "zugezogen", jedoch in Teilen Deutschlands mittlerweile fest etabliert. Seine Interaktionen mit Bestäubern ist hier wenig erforscht. Beim Aufsteigenden Hirtentäschel handelt es sich um eine neubeschriebene Art, die wahrscheinlich als Hybrid in Mitteleuropa entstanden ist, auch hier ist die Datenlage zur Ökologie noch lückenhaft.
 
