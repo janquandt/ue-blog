@@ -6,8 +6,7 @@ tags:
   - bluehpflanzen
   - stadtnatur
 title: Pflanzenportrait | Hirtentäschel
-banner: "/images/blog/hirtentaeschel2_banner.png"
-type: "post"
+featured_image: "/images/blog/hirtentaeschel2_banner.png"
 ---
 
 AUf meinen täglichen Spaziergängen mit dem Hund beobachte ich im Frühling fasziniert die Phänologie meiner pflanzlichen Nachbarn. Die Prunus Arten, allen voran die Zierkirsche, blühen dieser Tage prächtig und können im Gegensatz zur ebenso aktuell blühenden Magnolie, auch von Wildbienen wie der Gehörnten Mauerbiene (Osmia cornuta) als Futterquelle genutzt werden.
