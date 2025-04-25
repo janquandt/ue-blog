@@ -11,6 +11,13 @@
         <img class="post__thumbnail" src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image" />
       </div>
     {{ end }}
+    
+    {{ if .Params.featured_image }}
+      <div class="post__banner-wrapper">
+        <img class="post__banner" src="{{ .Params.featured_image | relURL }}" alt="Banner image" />
+      </div>
+    {{ end }}
+    
     <div class="post__content">
       {{ if (eq .Site.Params.disableTitleCapitalization true) }}
         <h1>{{ .Title }}</h1>
