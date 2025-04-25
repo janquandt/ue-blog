@@ -6,9 +6,9 @@
       animated fadeInDown
     {{ end }}"
   >
-    {{ if or (.Params.thumbnail) (.Params.featured_image) }}
+    {{ if .Params.thumbnail }}
     <div class="post__thumbnail-wrapper">
-      <img class="post__thumbnail" src="{{ with .Params.thumbnail }}{{ . | relURL }}{{ else }}{{ .Params.featured_image | relURL }}{{ end }}" alt="Thumbnail image" />
+      <img class="post__thumbnail" src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image" />
       </div>
       {{ end }}
     
