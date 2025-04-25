@@ -15,6 +15,6 @@ git push origin master
 
 git add --all
 
-git commit -m "description"
+git commit -m ""
 
 git push origin master
