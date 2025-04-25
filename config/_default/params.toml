@@ -72,7 +72,7 @@ url = "https://github.com/janquandt"
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:jhquandt@gmail.com"
+url = "mailto:janquandt@mail.de"
 
 [mermaid]
 # enable = true

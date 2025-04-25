@@ -5,7 +5,7 @@ title: "Impressum"
 Dies ist eine persönliche, nicht-kommerzielle Website, betrieben von:
 
 **Jan Quandt**  
-Kontakt: jhquandt@gmail.com
+Kontakt: janquandt@mail.de
 
 Diese Website dient ausschließlich Informations- und Privatzwecken. Es werden keine kommerziellen Dienstleistungen angeboten.
 Für Anfragen bitte per E-Mail kontaktieren.
