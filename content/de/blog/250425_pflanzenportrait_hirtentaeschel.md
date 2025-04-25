@@ -5,7 +5,6 @@ description: header-description
 tags:
 - bluehpflanzen
 - stadtnatur
-- blog
 title: Pflanzenportrait: Hirtentäschel
 banner: "images/blog/hirtentaeschel2_banner.png"
 ---
